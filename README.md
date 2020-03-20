@@ -44,6 +44,10 @@ _Some previews may not be fully updated, please check the version._ 😉
 
 I promise that it's **very** easy to use:
 
+First of all, install in your angular project with:
+
+`npm i --save @zxing/ngx-scanner`
+
 ```html
 <!-- some.component.html -->
 <zxing-scanner></zxing-scanner>
